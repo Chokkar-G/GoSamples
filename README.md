@@ -1,2 +1,3 @@
 # GoSamples
-Go Samples
+
+Contain's list of go samples 
